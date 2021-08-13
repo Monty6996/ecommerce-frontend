@@ -1,0 +1,91 @@
+/*=============================
+	20. Start Footer CSS
+===============================*/
+.footer {
+	background: #222;
+}
+
+.footer .single-footer h4 {
+	font-size: 17px;
+	font-weight: 600;
+	color: #fff;
+	text-transform: capitalize;
+	margin-bottom: 30px;
+}
+
+.footer .links ul li {
+	display: block;
+	margin-bottom: 8px;
+}
+
+.footer .links ul li:last-child {
+	margin-bottom: 0;
+}
+
+.footer .links ul li a {
+	color: #fff;
+	font-weight: 400;
+	text-decoration: none;
+}
+
+.footer .links ul li a:hover {
+	color: #f7941d;
+	padding-left: 10px;
+}
+
+.footer .social .contact ul li {
+	color: #fff;
+	display: block;
+	margin: 0 0 8px 0;
+	font-weight: 400;
+}
+
+.footer .contact ul li:last-child {
+	margin-bottom: 0;
+}
+
+.footer .social ul {
+	margin-top: 20px;
+}
+
+.footer .social ul li {
+	display: inline-block;
+	margin-right: 25px;
+}
+
+.footer .social ul li:last-child {
+	margin-right: 0;
+}
+
+.footer .social ul li a {
+	color: #fff;
+	display: block;
+	font-size: 16px;
+}
+
+.footer .social ul li a:hover {
+	color: #f7941d;
+}
+
+/* Copyright */
+.footer .copyright .inner {
+	border-top: 1px solid #eeeeee3d;
+	padding: 20px 0;
+}
+
+.footer .copyright .right {
+	float: right;
+}
+
+.footer .copyright p {
+	color: #fff;
+}
+
+.footer .copyright p a {
+	color: #fff;
+	text-decoration: underline;
+}
+
+/*=============================
+	End Footer CSS
+===============================*/

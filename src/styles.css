@@ -1,0 +1,18 @@
+.form-color:focus,
+.btn-color:focus {
+	color: #292521;
+	border-color: #f7941d;
+	box-shadow: 0 0 0 0.25rem rgba(253, 121, 13, 0.267);
+}
+
+.btn-color {
+	color: #000;
+	background-color: #f7951d;
+	border-color: #f7951d;
+}
+
+.btn-color:hover {
+	color: #000;
+	background-color: rgb(253, 121, 13);
+	border-color: rgb(253, 121, 13);
+}

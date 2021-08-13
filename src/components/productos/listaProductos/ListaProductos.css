@@ -1,0 +1,7 @@
+.card {
+	width: 19rem;
+}
+.card:hover {
+	border-color: #f7941d;
+}
+
